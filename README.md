@@ -10,6 +10,7 @@ Um simples plugin de timer.
 - Possue placeholders do PlaceholderAPI
 - Funciona com menu (/timer)
 - Suporta cabeças personalizadas no menu
+- Envia itens ao player ao timer acabar (Itens configuráveis por config)
 
 ## Comandos
 
