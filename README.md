@@ -3,13 +3,13 @@ Um simples plugin de timer.
 
 ## Funcionalidades
 
-- Suporta apenas versão 1.8
+- Suporta da 1.8 até a 1.21.4
 - Totalmente otimizado
 - Possue auto-update
 - Totalmente configurável
 - Possue placeholders do PlaceholderAPI
 - Funciona com menu (/timer)
-- Suporta cabeças personalizadas no menu
+- Suporta cabeças personalizadas no menu (apenas da 1.8 até a 1.12)
 - Envia itens ao player ao timer acabar (Itens configuráveis por config)
 
 ## Comandos
